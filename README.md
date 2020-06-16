@@ -1,1 +1,0 @@
-Debit Alert email template
